@@ -1,0 +1,4 @@
+
+SUPPRIMER : - pouvoir supprimer uniquement les équipes qui n'ont pas d'arbitres liés
+
+(éventuellement) : améliorer css
